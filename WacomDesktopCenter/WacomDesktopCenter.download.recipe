@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the latest drivers for the Wacom Intuos Pro tablets.</string>
     <key>Identifier</key>
-    <string>local.download.WacomDesktopCenter</string>
+    <string>com.github.brycemck.download.WacomDesktopCenter</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>

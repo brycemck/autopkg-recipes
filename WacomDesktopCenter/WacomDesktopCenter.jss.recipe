@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Uploads the Wacom Desktop Center package to Jamf.</string>
     <key>Identifier</key>
-    <string>local.jss.WacomDesktopCenter</string>
+    <string>com.github.brycemck.jss.WacomDesktopCenter</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
