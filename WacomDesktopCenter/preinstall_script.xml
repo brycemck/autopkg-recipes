@@ -1,7 +1,7 @@
 <script>
-	<name>WacomTablet_preinstall.sh</name>
+	<name>wacomdriver_preinstall.sh</name>
 	<category>Scripts</category>
-	<filename>preinstall.sh</filename>
+	<filename>wacomdriver_preinstall.sh</filename>
 	<info />
 	<notes />
 	<priority>Before</priority>
