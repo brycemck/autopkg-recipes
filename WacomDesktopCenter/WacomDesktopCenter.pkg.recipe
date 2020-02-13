@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads the latest drivers for the Wacom Intuos Pro tablets, and builds a package..</string>
+    <string>Downloads the latest drivers for the Wacom Intuos Pro tablets, and builds a package.</string>
     <key>Identifier</key>
     <string>com.github.brycemck.pkg.WacomDesktopCenter</string>
     <key>Input</key>
