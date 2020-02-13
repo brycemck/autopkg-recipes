@@ -59,7 +59,7 @@
 				<array>
 					<dict>
 						<key>name</key>
-						<string>preinstall.sh</string>
+						<string>wacomdriver_preinstall.sh</string>
 						<key>template_path</key>
 						<string>preinstall_script.xml</string>
 					</dict>
