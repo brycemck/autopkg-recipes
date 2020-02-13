@@ -12,7 +12,7 @@
         <string>Wacom Desktop Center</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>local.download.WacomDesktopCenter</string>
+    <string>com.github.brycemck.download.WacomDesktopCenter</string>
     <key>Process</key>
     <array>
         <dict>
