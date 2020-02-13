@@ -24,6 +24,10 @@
 		<string>The Wacom Desktop Center is required if you are using a Wacom Intuos Pro tablet.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>Wacom Desktop Center.png</string>
+		<key>GROUP_NAME</key>
+		<string>%NAME%-update</string>
+		<key>POLICY_CATEGORY</key>
+		<string>Drivers</string>
     </dict>
     <key>ParentRecipe</key>
     <string>com.github.brycemck.pkg.WacomDesktopCenter</string>
