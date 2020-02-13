@@ -1,0 +1,10 @@
+<script>
+	<name>WacomTablet_preinstall.sh</name>
+	<category>Scripts</category>
+	<filename>preinstall.sh</filename>
+	<info />
+	<notes />
+	<priority>Before</priority>
+	<parameters />
+	<os_requirements />
+</script>

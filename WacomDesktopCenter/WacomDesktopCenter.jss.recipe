@@ -55,6 +55,15 @@
 						<string>%GROUP_TEMPLATE%</string>
 					</dict>
 				</array>
+				<key>scripts</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>preinstall.sh</string>
+						<key>template_path</key>
+						<string>preinstall_script.xml</string>
+					</dict>
+				</array>
 				<key>policy_category</key>
 				<string>%POLICY_CATEGORY%</string>
 				<key>policy_template</key>
