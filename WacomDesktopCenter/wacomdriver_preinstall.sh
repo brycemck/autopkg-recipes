@@ -10,7 +10,7 @@ uninstall_script="/Applications/Wacom Tablet.localized/Wacom Tablet Utility.app/
 fakeout_user="foo"
 fakeout_home="$(mktemp -d -t _wacom_uninstall_tmp)"
 
-if [[ -f "$uninstall_script" &amp;&amp; -x "$uninstall_script" ]]; then
+if [[ -f "$uninstall_script" && -x "$uninstall_script" ]]; then
     echo "preuninstall_script: Calling Wacom uninstall script: ${uninstall_script}"
     USER="${fakeout_user}" HOME="${fakeout_home}" "$uninstall_script"
     echo "preuninstall_script: End of Wacom uninstall script."
